@@ -3,6 +3,6 @@ services:
     name: libretranslate
     env: docker
     plan: free
-    dockerfilePath: ./Dockerfile
+    dockerfilePath: ./docker/Dockerfile
     branch: main
     autoDeploy: true
