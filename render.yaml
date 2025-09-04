@@ -6,4 +6,3 @@ services:
     dockerfilePath: ./Dockerfile
     branch: main
     autoDeploy: true
-S
